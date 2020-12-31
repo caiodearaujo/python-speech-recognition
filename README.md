@@ -11,7 +11,7 @@ Obs.: O módulo PyAudio é incompatível com o Python 3.8, caso seja essa versã
 
 ## Instalando os módulos necessários
 ```bash
-https://simplesmascomplexo.com.br/reconhecimento-de-fala-com-python/
+pip install SpeechRecognition pyaudio
 ```
 
 ## Executando o código
