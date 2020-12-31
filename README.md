@@ -16,7 +16,7 @@ pip install SpeechRecognition pyaudio
 
 ## Executando o código
 ```bash
-python3 my_recognition
+python3 my_recognition.py
 ```
 
 ## Bônus
